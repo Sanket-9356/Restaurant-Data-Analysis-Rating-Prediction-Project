@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 <p align="center">
-  <img src="cognifyz_banner.png" alt="Cognifyz Internship Project" width="100%">
+  <img src="cover_image.png" alt="Cognifyz Internship Project" width="100%">
 </p>
 
 ---
